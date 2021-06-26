@@ -1,5 +1,5 @@
 <template>
-
+	<!-- Sidebar goes here  -->
 	<div class="main">
 		<div class="container">
 
