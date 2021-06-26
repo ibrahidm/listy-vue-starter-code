@@ -7,6 +7,12 @@
 	</div>
 </template>
 
+<script lang="ts">
+export default {
+	
+}
+</script>
+
 <style>
 	html body {
 		height: 100vh;
