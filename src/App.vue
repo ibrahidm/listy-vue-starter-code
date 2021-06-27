@@ -5,11 +5,15 @@
 
 		</div>
 	</div>
+	<AppFooter />
 </template>
 
 <script lang="ts">
+import AppFooter from '@/components/app/Footer.vue'
 export default {
-	
+	components: {
+		AppFooter
+	}
 }
 </script>
 

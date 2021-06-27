@@ -41,6 +41,7 @@ export default {
     display: flex;
     flex-direction: column;
     overflow: auto;
+    overflow-x: hidden;
     min-height: 120px;
 }
 
